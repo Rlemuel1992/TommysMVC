@@ -1,0 +1,7 @@
+C:\Users\Ronad\source\repos\ModelViewController\ModelViewController\bin\Debug\ModelViewController.exe.config
+C:\Users\Ronad\source\repos\ModelViewController\ModelViewController\bin\Debug\ModelViewController.exe
+C:\Users\Ronad\source\repos\ModelViewController\ModelViewController\bin\Debug\ModelViewController.pdb
+C:\Users\Ronad\source\repos\ModelViewController\ModelViewController\obj\Debug\ModelViewController.csprojAssemblyReference.cache
+C:\Users\Ronad\source\repos\ModelViewController\ModelViewController\obj\Debug\ModelViewController.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\ModelViewController\ModelViewController\obj\Debug\ModelViewController.exe
+C:\Users\Ronad\source\repos\ModelViewController\ModelViewController\obj\Debug\ModelViewController.pdb
